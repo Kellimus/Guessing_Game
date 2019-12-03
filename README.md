@@ -1,2 +1,4 @@
-# Guessing_Game
-A project for the Coursera Course, "The Unix Workbench", creating a guessinggame.sh file
+This is a **README.md** file created from a _**makefile**_.
+Title of Project: **guessinggame.sh**
+Date and Time make was run: _Mon 02 Dec 2019 08:19:26 PM MST_
+Number of lines of code contained in guessinggame.sh: 34
